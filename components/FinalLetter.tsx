@@ -143,7 +143,7 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
                   </svg>
                 </div>
                 <h3 className="text-xl sm:text-2xl font-extrabold text-[#1b0d14]">
-                  Final Love Letter
+                  Final Letter
                 </h3>
               </div>
             </div>
@@ -161,10 +161,10 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
                 you mean to me.
               </p>
               <p>
-                I&apos;ll keep making memories, big and small, always with you.
+                I&apos;ll keep making memories, big and small with you.
               </p>
               <p className="text-[#a67fb8]">
-                Forever yours, in every little universe.
+                Thank you
               </p>
             </article>
 
@@ -189,7 +189,7 @@ export default function FinalLetter({ onRestart }: FinalLetterProps) {
                       animate={{ opacity: 1 }}
                       exit={{ opacity: 0 }}
                     >
-                      <span className="text-2xl">💋</span>
+                      <span className="text-2xl"></span>
                       <div className="sparkle"></div>
                     </motion.div>
                   ))}
