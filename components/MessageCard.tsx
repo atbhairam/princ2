@@ -128,7 +128,7 @@ export default function MessageCard({
         <div className="flex items-center justify-center gap-2 mb-6 animate-slideDown">
           <div className="text-center">
             <h2 className="text-[#f04299] text-lg sm:text-xl font-bold leading-tight">
-              A Love Letter 💌
+              A Letter 💌
             </h2>
             <div className="text-xs text-[#9a4c73] mt-1">
               From my heart to yours
