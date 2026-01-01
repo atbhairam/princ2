@@ -261,7 +261,7 @@ export default function MessageCard({
                         >
                           <Image
                             src="/assets/letter-C680mUtz.webp"
-                            alt="Decorative love letter illustration"
+                            alt="Decorative letter illustration"
                             width={96}
                             height={96}
                             className="w-24 h-auto object-contain drop-shadow-lg"
@@ -277,7 +277,7 @@ export default function MessageCard({
                                 💝
                               </div>
                               <span className="text-sm font-semibold text-[#9a4c73]">
-                                My Sweetest Love
+                                My Sweetest cutu
                               </span>
                             </div>
                           </div>
@@ -285,15 +285,14 @@ export default function MessageCard({
                           {/* Letter body */}
                           <div className="handwriting text-sm sm:text-base leading-relaxed text-[#1b0d14] pb-20 pt-6">
                             <div className="mb-4 text-[#f04299] font-medium">
-                              My dearest Divya,
+                              My Cutest Kritika,
                             </div>
                             <div
                               className="mb-6 text-justify"
                               style={{ textIndent: '2rem' }}
                             >
-                              Every moment with you feels like a beautiful dream
-                              that I never want to wake up from. I want you to
-                              know that you are the most precious person in my
+                              I want you to know that you are the most
+                              precious person and friend in my
                               life. Every day with you is a gift, and I&apos;m
                               grateful for every second we share together. You
                               make me want to be the best version of myself.
@@ -301,7 +300,7 @@ export default function MessageCard({
                             <div className="mt-8 ml-auto w-fit">
                               <div className="font-medium text-[#f04299]">
                                 <TypewriterText
-                                  text="With all my love, Always yours 💕"
+                                  text="yours bhondu friend💕"
                                   duration={2}
                                   delay={0}
                                   onComplete={() =>
