@@ -182,7 +182,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.2 }}
             >
-              Hey Princess! 💕
+              Hey Kritika Princess! 💕
             </motion.h1>
 
             <motion.div
@@ -192,7 +192,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               transition={{ delay: 0.4 }}
             >
               <p>
-                I Wanted to do something special for you, for this princess day,
+                I Wanted to do something special for you, for this New Year,
                 so I made something special just for you...
               </p>
               <p className="pt-3">
@@ -213,7 +213,7 @@ export default function Hero({ onOpenGift, isGiftOpened }: HeroProps) {
               whileTap={{ scale: 0.95 }}
               aria-label="Open my heart"
             >
-              Open My Heart 💖
+              Open My Effort 💖
             </motion.button>
 
             {/* Decorative element */}
