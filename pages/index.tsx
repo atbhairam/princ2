@@ -28,15 +28,15 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Happy National Princess Day 👑</title>
+        <title>Happy New Year Day 👑</title>
         <meta
           name="description"
-          content="A special surprise for National Princess Day - A delightful interactive experience with love letters, music, and memories"
+          content="A special surprise for New year - A delightful interactive experience with love letters, music, and memories"
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta
           name="keywords"
-          content="National Princess Day, love letter, surprise, romantic, interactive"
+          content="New Year, letter, surprise, romantic, interactive"
         />
         <meta name="author" content="Made with 💕" />
 
@@ -47,7 +47,7 @@ export default function Home() {
 
         {/* Open Graph / Facebook */}
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Happy National Princess Day 👑" />
+        <meta property="og:title" content="Happy Happy New Year👑" />
         <meta
           property="og:description"
           content="A special surprise for National Princess Day - A delightful interactive experience with love letters, music, and memories"
@@ -63,7 +63,7 @@ export default function Home() {
         <meta name="twitter:title" content="Happy National Princess Day 👑" />
         <meta
           name="twitter:description"
-          content="A special surprise for National Princess Day"
+          content="A special surprise for Princess Day"
         />
         <meta name="twitter:image" content="/og-image.jpg" />
 
@@ -83,7 +83,7 @@ export default function Home() {
 
         <footer className="px-4 py-8 text-center text-text/60">
           <p className="text-sm">
-            National Princess Day —{' '}
+            New Year —{' '}
             {new Date().toLocaleDateString('en-US', {
               year: 'numeric',
               month: 'long',
